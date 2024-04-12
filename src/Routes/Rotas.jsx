@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { Fragment } from "react";
 import Home from "../Pages/Home/Home";
-import { Info } from "../Pages/Home/Info";
+//import { Info } from "../Pages/Home/Info";
 import { Login } from "../Pages/Home/Login/Login";
 import { Cadastro } from "../Pages/Home/Cadastro/Cadastro";
 import { Sidebar } from "../Pages/Sidebar/Sidebar";
